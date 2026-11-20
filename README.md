@@ -27,7 +27,7 @@ This add-on is useful if strong password policies are needed, e.g. in CERT or fi
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 

@@ -2,7 +2,7 @@
 # Copyright (C) 2001-2021 OTRS AG, https://otrs.com/
 # Copyright (C) 2012 Znuny GmbH, https://znuny.com/
 # --
-# $origin: znuny - ef105247eb1594e35e229fe21f89a616162bccbe - Kernel/Output/HTML/Layout.pm
+# $origin: znuny - 8bfd2ca1b694a1431df413d72fc5d731d0c5956d - Kernel/Output/HTML/Layout.pm
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (GPL). If you
